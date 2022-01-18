@@ -1,0 +1,3 @@
+text:
+Set player name :
+red

@@ -1,0 +1,5 @@
+Ncurses:
+White
+Sdl2:
+asset/sprite/circular_rectangle.png
+Sfml:

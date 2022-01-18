@@ -1,0 +1,6 @@
+Ncurses:
+green
+Sdl2:
+asset/sprite/wall.png
+Sfml:
+asset/sprite/wall.png
